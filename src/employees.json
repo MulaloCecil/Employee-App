@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Castro",
+    "surname": "Black",
+    "email": "castro@gmail.com",
+    "phone": "1234567890",
+    "position": "Manager"
+  },
+  {
+    "id": "2",
+    "name": "Letty",
+    "surname": "Moila",
+    "email": "letty@gmail.com",
+    "phone": "9876543210",
+    "position": "Developer"
+  },
+  {
+    "id": "3",
+    "name": "Future",
+    "surname": "Kgaphola",
+    "email": "future@gmail.com",
+    "phone": "5555555555",
+    "position": "Designer"
+  },
+  {
+    "id": "4",
+    "name": "Choene",
+    "surname": "Nkwana",
+    "email": "choene@mlab.com",
+    "phone": "1111111111",
+    "position": "Coodinator"
+  },
+  {
+    "id": "5",
+    "name": "Kabelo",
+    "surname": "Brown",
+    "email": "kabelo@mlab.com",
+    "phone": "9999999999",
+    "position": "Facilitator"
+  }
+]
